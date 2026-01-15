@@ -42,10 +42,15 @@ Abaixo, a organização das pastas para facilitar a navegação:
 
 <h4>2. Instalação</h4>
 
-* Clone o repositório e instale as dependências:
-> git clone [https://link-do-seu-repositorio.com](https://link-do-seu-repositorio.com)
-cd nome-do-projeto
-npm install
+* Clone o repositório
+> git clone https://gitlab.com/deasbruna-group/desafioqajunior.git
+* No terminal, navegue até a pasta do seu projeto ou entre na subpasta específica:
+> cd caminho/para/seu/projeto/automacao
+* (Com o Node.js já instalado) Inicie um novo projeto Node.js:
+> npm init -y
+* Instale o Cypress:
+> npm install cypress --save-dev
+
 
 <h4>3. Rodando os Testes</h4>
 
