@@ -1,7 +1,7 @@
 {
   "name": "automacao",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h2><span style=\"color: #2196F3;\">Automação de Testes com Cypress - Desafio QA Júnior 🚀</span></h2>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
